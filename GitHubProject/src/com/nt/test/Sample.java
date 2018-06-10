@@ -3,9 +3,9 @@ package com.nt.test;
 public class Sample {
 
 	public static void main(String[] args) {
-		System.out.println("Hello GitHub");
-		//hi github 
-		System.out.println("Hi GitHub");
+		System.out.println("Hello GitHub");	
+		//Sakti
+
 	}
 
 }
