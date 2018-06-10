@@ -5,4 +5,8 @@ public class Mathematics {
 	  int sum=a+b-10;
 	  return sum;
   }
+  public int sub(int a,int b) {
+	  int subtraction=a-b;
+	  return subtraction;
+  }
 }
