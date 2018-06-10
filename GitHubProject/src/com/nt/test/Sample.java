@@ -6,6 +6,9 @@ public class Sample {
 		System.out.println("Hello GitHub");	
 		//Sakti
 		System.out.println("Hii all");
+		Mathematics ma=new Mathematics();
+		int sum=ma.add(10, 20);
+		System.out.println("Addition is::"+sum);
 	}
 
 }
