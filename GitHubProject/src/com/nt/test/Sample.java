@@ -9,6 +9,9 @@ public class Sample {
 		Mathematics ma=new Mathematics();
 		int sum=ma.add(10, 20);
 		System.out.println("Addition is::"+sum);
+		
+		int sub=ma.sub(30, 20);
+		System.out.println("substraction is:"+sub);
 	}
 
 }
