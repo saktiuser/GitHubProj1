@@ -12,6 +12,7 @@ public class Sample {
 		
 		int sub=ma.sub(30, 20);
 		System.out.println("substraction is:"+sub);
+		
 	}
 
 }
